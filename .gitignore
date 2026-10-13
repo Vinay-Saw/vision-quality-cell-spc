@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/images/
+data/DeepPCB-master/
+data/quality.db
+*.db
+.DS_Store
